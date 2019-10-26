@@ -15,12 +15,11 @@
     <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
     <![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-        {% include navigation.html %}
   </head>
   <body>
       <div id="header">
         <nav>
+    	  {% include navigation.html %}
           <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
           {% if site.show_downloads %}
             <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
