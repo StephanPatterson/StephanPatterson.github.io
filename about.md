@@ -4,4 +4,4 @@ title: About
 ---
 # About 
 
-I currently live outside of Denver, Colorado. I own two dogs and enjoy reading and riding my bicycle. 
+I currently live in Shreveport, Louisiana. I own two rescue dogs and enjoy reading and riding my bicycle. 
